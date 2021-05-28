@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
 title: Planter
 github:
   is_project_page: false
