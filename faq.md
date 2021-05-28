@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # FAQ
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
