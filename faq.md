@@ -6,6 +6,15 @@ nav_order: 2
 
 # FAQ
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## How do I create a garden?
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bUXQpFhvP1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><br/>
