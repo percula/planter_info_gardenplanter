@@ -4,8 +4,11 @@ title: Planter
 
 ### The best tool to plan and manage your vegetable garden!
 
-Planter helps gardeners plan and manage their food gardens. You can plan the layout of your garden, identify which plants should or shouldn’t be planted together, get information on how to grow each plant, and more!
+- Companion and combative plant information
+- Gardening schedule for planting or transplanting times
+- Square foot gardening layout grid for easy spacing
+- Information on 50+ fruits and vegetables and hundreds of varieties
+- Ability to add custom plants if your favorite isn\'t included yet
 
-<a href='https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
-
-### Coming to iOS Spring 2021!
+<a href='https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='../images/google_play_badge.svg' width='200'/></a>
+<a href='https://apps.apple.com/us/app/planter-garden-planner/id1542642210?itsct=apps_box&itscg=30200'><img alt='Download from the App Store' src='../images/app_store_badge.svg' width='200'/></a>
