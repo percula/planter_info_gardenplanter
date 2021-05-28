@@ -1,0 +1,11 @@
+docs_list_title: ACME Documentation
+docs:
+
+  - title: FAQ
+    url: faq.html
+
+  - title: Privacy
+    url: privacy.html
+
+  - title: Deployment
+    url: deployment.html
