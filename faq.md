@@ -1,6 +1,7 @@
 ---
 permalink: /faq
 published: true
+layout: default_toc
 ---
 
 ## FAQ
