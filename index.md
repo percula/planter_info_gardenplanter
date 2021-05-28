@@ -1,5 +1,5 @@
 ---
-title: Planter
+title: Download
 nav_order: 1
 ---
 

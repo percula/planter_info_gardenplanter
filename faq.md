@@ -2,6 +2,7 @@
 permalink: /faq
 published: true
 nav_order: 2
+title: Planter FAQ
 ---
 
 # FAQ
