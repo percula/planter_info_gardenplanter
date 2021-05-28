@@ -1,5 +1,6 @@
 ---
 title: Planter
+nav_order: 1
 ---
 
 ### The best tool to plan and manage your vegetable garden!
