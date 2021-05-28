@@ -1,6 +1,4 @@
 title: Planter
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
-#github:
-#  is_project_page: false
+github:
+  is_project_page: false
