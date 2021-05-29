@@ -1,12 +1,11 @@
 ---
-permalink: /gardens
+permalink: /getting-started
 published: true
-parent: Getting Started
-nav_order: 1
-title: Gardens
+nav_order: 2
+title: Getting Started
 ---
 
-# Gardens
+# Getting Started
 {: .no_toc }
 
 <details open markdown="block">
@@ -17,6 +16,8 @@ title: Gardens
 1. TOC
 {:toc}
 </details>
+
+This quickstart shows you how to create your first garden and add plants.
 
 ## Creating your first garden
 1. Tap the "+ New Garden" button
