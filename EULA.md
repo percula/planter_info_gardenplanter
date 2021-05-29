@@ -1,7 +1,7 @@
 ---
 permalink: /eula
 published: true
-title: Planter End User License Agreement
+title: EULA
 ---
 ## End User License Agreement
 

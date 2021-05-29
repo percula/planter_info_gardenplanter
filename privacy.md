@@ -1,7 +1,7 @@
 ---
 permalink: /privacy
 published: true
-title: Planter Privacy Policy
+title: Privacy Policy
 ---
 ## Privacy Policy
 
