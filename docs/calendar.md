@@ -32,7 +32,8 @@ If Planter cannot find a weather station near you, manually enter your frost dat
 2. Tap "Spring frost date", then "Set Manually", and enter your spring frost date.
 3. Tap "Fall frost date", then "Set Manually", and enter your fall frost date.
 
-> If you live in a region where the temperature never goes below freezing, you can largely ignore the planting times given by the calendar. Plant cool season crops such as Broccoli and Cabbage in your cool season. Likewise, plant thirsty crops in your rainy season.  
+### Tropical and hot regions
+If you live in a region where the temperature never goes below freezing, you can largely ignore the planting times given by the calendar. Plant cool season crops such as Broccoli and Cabbage in your cool season. Likewise, plant thirsty crops in your rainy season.  
 
 ## Filters
 You can filter the calendar to only show plants that are in your <a href="https://info.gardenplanter.app/plants#marking-a-plant-as-a-favorite">favorites</a> or in your garden.
