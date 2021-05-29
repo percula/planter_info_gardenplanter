@@ -2,6 +2,7 @@
 permalink: /privacy
 published: true
 title: Privacy Policy
+nav_exclude: true
 ---
 ## Privacy Policy
 

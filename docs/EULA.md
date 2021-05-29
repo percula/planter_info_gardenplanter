@@ -2,6 +2,7 @@
 permalink: /eula
 published: true
 title: EULA
+nav_exclude: true
 ---
 ## End User License Agreement
 
