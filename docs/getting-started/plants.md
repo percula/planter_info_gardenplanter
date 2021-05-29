@@ -2,7 +2,7 @@
 permalink: /plants
 published: true
 parent: Getting Started
-nav_order: 1
+nav_order: 2
 title: Plants
 ---
 
@@ -18,7 +18,7 @@ title: Plants
 {:toc}
 </details>
 
-## Creating a custom plant
+## Creating custom plants
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Adding varieties
