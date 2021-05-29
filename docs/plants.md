@@ -28,10 +28,14 @@ If the app does not have a plant you are planting, you can add a custom plant:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Marking a plant as a "Favorite"
+1. Tap on the plant
+2. In-between the plant name and the icon, tap the heart icon
+
 ## I don't see zucchini, green onions, or red peppers? Where are they?
 These are listed in the [varieties]({% link docs/varieties.md %}) tab of the plant.
 
-<img src="../images/variety.webp" max-width="100%">
+<img src="../images/variety.webp" max-width="300px">
 
 ## Why doesn't Planter have {name of plant}?
 
