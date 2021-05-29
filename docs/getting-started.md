@@ -56,9 +56,3 @@ Yellow circles mean that some varieties of the plants are companions while other
 ## Spacing indicators
 
 If you see a circle with 4× in it, that indicates you can plant 4 plants in that square. Each square is one square foot (or 1/9 square meter). For more information, see [Plant Spacing](https://info.gardenplanter.app/plants#spacing)
-
-## Customizing the background (premium feature)
-
-You can add raised beds, pots, hoses, and more. You can also change the background to grass, mulch, or rocks.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aTJlkn8BpFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
