@@ -19,6 +19,8 @@ title: Getting Started
 
 This quickstart shows you how to create your first garden and add plants.
 
+For more information about how to use the app, please use the navigation menu to view portions of this site.
+
 ## Creating your first garden
 1. Tap the "+ New Garden" button
 2. Enter the garden name
