@@ -18,21 +18,24 @@ title: Plants
 </details>
 
 ## Creating custom plants
+If the app does not have a plant you are planting, you can add a custom plant:
+
+1. On the Plants screen (**not** the "Add Plants" dialog in the garden view), tap the "+" button.
+2. Enter the plant name.
+3. Optionally add a description and other information.
+5. Optionally choose an icon and image.
+5. Tap "Save".
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Adding varieties
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DfDtJSIL0dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## I don't see zucchini, green onions, or red peppers? Where are they?
-These are listed in the varieties tab of the plant.
+These are listed in the [varieties]({% link docs/varieties.md %}) tab of the plant.
 
 <img src="../images/variety.webp" max-width="100%">
 
 ## Why doesn't Planter have {name of plant}?
 
-Please feel free to <a target="_blank" href="https://mailhide.io/e/IIRlz">send me your plant requests</a>. While you're waiting for me to add it, you can create a [custom plant](https://youtu.be/ox65gthSCDM) or [variety](https://youtu.be/r_NDs-RGTuU).
-
-I try my best to add plants, but it is a time consuming task. This is not my full-time job and I have 2 young kids, so as you can imagine it's hard to find the time. Thanks for your understanding 😉. 
+Please use the "Plants and Feature Requests" forum, which you can find in Settings. If the plant you're looking for has already been requested, please upvote it! This helps us prioritize which plants to add. While you're waiting for me to add it, you can create a custom plant or variety.
 
 ## Spacing
 
