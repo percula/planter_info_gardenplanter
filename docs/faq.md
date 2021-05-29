@@ -17,7 +17,7 @@ title: FAQ
 {:toc}
 </details>
 
-See [Getting Started]({% link docs/getting-started.md %}) for information on gardens, plants, and more. This FAQ only contains information not already included in that section.
+See [Getting Started]({% link docs/getting-started/getting-started.md %}) for information on gardens, plants, and more. This FAQ only contains information not already included in that section.
 
 ## What does "premium" include?
 
