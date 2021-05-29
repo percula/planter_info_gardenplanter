@@ -18,11 +18,6 @@ title: Gardens
 {:toc}
 </details>
 
-View this tutorial to get started:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bUXQpFhvP1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Creating your first garden
 1. Tap the "+ New Garden" button
 2. Enter the garden name
@@ -57,6 +52,12 @@ Yellow circles mean that some varieties of the plants are companions while other
 
 <img src="../images/compatibility.webp" max-width="100%">
 
-## Plant spacing
+## Spacing indicators
 
-In Planter, plants are spaced per square-foot-gardening guidelines. For instance, if you see a circle with 4× in it, that indicates you can plant 4 plants in that square. Each square is one square foot (or 1/9 square meter).
+If you see a circle with 4× in it, that indicates you can plant 4 plants in that square. Each square is one square foot (or 1/9 square meter). For more information, see [Plant Spacing](https://info.gardenplanter.app/plants#spacing)
+
+## Customizing the background (premium feature)
+
+You can add raised beds, pots, hoses, and more. You can also change the background to grass, mulch, or rocks.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aTJlkn8BpFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
