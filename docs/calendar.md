@@ -23,11 +23,11 @@ The calendar feature let's you quickly see which plants you can start inside, tr
 ## Setting frost dates
 For temperate regions, knowing your frost date is vital to having a successful garden. Planter has a global database of weather stations to help determine your frost date. 
 
-To set your frost date:
+### Automatically setting your frost dates
 1. Go to Settings
 2. Tap "Weather Station" and follow the prompts
 
-If Planter cannot find a weather station near you, manually enter your frost dates:
+### Manually setting your frost dates
 1. Search on the internet for your frost dates
 2. Tap "Spring frost date", then "Set Manually", and enter your spring frost date.
 3. Tap "Fall frost date", then "Set Manually", and enter your fall frost date.
