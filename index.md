@@ -10,7 +10,7 @@ You've come to the right place.
 {: .fs-6 .fw-300 }
 
 
-Visit the [Getting Started]({% link docs/getting-started.md %}) guide or click below for more detail on a subject:
+Visit the [Getting Started]({% link docs/getting-started.md %}) guide, use the search bar (on mobile, click the ≡ button), or click below for more detail on a subject:
 
 - [Plants]({% link docs/plants.md %})
 - [Varieties]({% link docs/varieties.md %})

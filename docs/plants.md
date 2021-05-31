@@ -39,7 +39,7 @@ These are listed in the [varieties]({% link docs/varieties.md %}) tab of the pla
 
 ## Why doesn't Planter have {name of plant}?
 
-Please use the "Plants and Feature Requests" forum, which you can find in Settings. If the plant you're looking for has already been requested, please upvote it! This helps us prioritize which plants to add. While you're waiting for me to add it, you can create a custom plant or variety.
+Please use the "Plants and Feature Requests" forum, which you can find in Settings. If the plant you're looking for has already been requested, please upvote it! This helps us prioritize which plants to add. While you're waiting for it to be added, you can create a custom plant or variety.
 
 ## Spacing
 
