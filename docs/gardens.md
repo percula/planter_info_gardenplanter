@@ -40,10 +40,10 @@ If you see a circle with 4× in it, that indicates you can plant 4 plants in tha
 You can speed up planting with "quick plant mode":
 
 1. Tap "Add Plants"
-2. Make sure the quick plant switch is enabled <span class="iconify" data-icon="mdi-checkboxes-marked-circle-outline"></span>.
-3. Drag and drop the first plant.
-  - If you correctly turned on quick plant mode, it will say "Tap to quick plant" in the bar above the garden after dragging the first plant.
-4. Simply tap on squares to quickly plant subsequent plants.
+2. Make sure the quick plant switch is enabled <span class="iconify" data-icon="mdi-checkboxes-marked-circle-outline"></span>.
+3. Drag and drop the first plant.
+  - If you correctly turned on quick plant mode, it will say "Tap to quick plant" in the bar above the garden after dragging the first plant.
+4. Simply tap on squares to quickly plant subsequent plants.
 5. When done tap the <span class="iconify" data-icon="mdi-close"></span> to stop planting or tap "Add Plants" to quick-plant another plant.
 
 ## Sharing garden screenshots
