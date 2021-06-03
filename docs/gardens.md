@@ -35,6 +35,18 @@ Yellow circles mean that some varieties of the plants are companions while other
 
 If you see a circle with 4× in it, that indicates you can plant 4 plants in that square. Each square is one square foot (or 1/9 square meter). For more information, see [Plant Spacing](https://info.gardenplanter.app/plants#spacing)
 
+## Quick Plant mode
+
+You can speed up planting with "quick plant mode":
+
+1. Make sure the quick plant switch is enabled.
+
+<span class="iconify" data-icon="mdi-checkboxes-marked-circle-outline"></span>
+
+2. Drag and drop the first plant.
+  - If you correctly turned on quick plant mode, it will say "Tap to quick plant" in the bar above the garden after dragging the first plant.
+3. Simply tap on squares to quickly plant subsequent plants. 
+
 ## Sharing garden screenshots
 
 1. From the garden view, tap the ⋮ icon and select "Share screenshot". 
