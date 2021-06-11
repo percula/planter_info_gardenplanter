@@ -28,6 +28,14 @@ If the app does not have a plant you are planting, you can add a custom plant:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A-6cZsS_s_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Editing plants
+You can customize any of the information on existing plants, including the icon and image:
+
+1. On the Plants screen (**not** the "Add Plants" dialog in the garden view), long-press on the plant you'd like to edit.
+2. Tap "Edit".
+3. Adjust the information to your liking.
+5. Tap "Save".
+
 ## Marking a plant as a "Favorite"
 1. Tap on the plant
 2. In-between the plant name and the icon, tap the heart icon
