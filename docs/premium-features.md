@@ -44,6 +44,6 @@ You can add raised beds, pots, hoses, and more. You can also change the backgrou
 3. Tap the background color palette icon 🎨 to set the foreground or background for the selected squares
 
 For non-symmetric foregrounds, tap the rotate icon to change it to the desired orientation:
-<img src="../images/foreground_rotate.webp" width="200">
+<img src="../images/foreground_rotate.webp" width="300">
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aTJlkn8BpFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
