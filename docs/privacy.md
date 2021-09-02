@@ -49,7 +49,7 @@ In addition, the Application may collect certain information automatically, incl
 
 This Application does **not** collect precise information about the location of your mobile device. If you opt to provide your location to automatically determine your frost dates, that information is not stored.
 
-### Does Percula sell user data?
+### Is user data collected by the Application sold?
 
 **No**, we do not sell user data and only collect data to improve user experience. However, we may disclose User Provided and Automatically Collected Information in the following situations:
 
