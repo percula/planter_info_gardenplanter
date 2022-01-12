@@ -20,7 +20,7 @@ title: Premium Features
 
 ♾ Unlimited gardens  
 🚫 No ads  
-🖥️ Web access  
+🖥️ Web access (coming in Spring 2022!)  
 📝 Notes  
 📅 Events: Keep track of when you start seeds, water, fertilize, and more  
 🎨 Custom backgrounds: Mulch, trellises, and more  
