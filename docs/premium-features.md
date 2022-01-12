@@ -20,6 +20,7 @@ title: Premium Features
 
 ♾ Unlimited gardens  
 🚫 No ads  
+🖥️ Web access  
 📝 Notes  
 📅 Events: Keep track of when you start seeds, water, fertilize, and more  
 🎨 Custom backgrounds: Mulch, trellises, and more  
